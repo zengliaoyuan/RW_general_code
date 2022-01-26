@@ -23,5 +23,5 @@ minresQLP.m is a subroutine used in gep.m (as suggested in [Lieder, 2020](https:
 
 # Reference
 
-More details on implementation and numerical experience can be found in ["![rho](https://render.githubusercontent.com/render/math?math=\rho)-regularization subproblems: Strong duality and an eigensolver-based algorithm"](https://arxiv.org/abs/2109.01829)
+More details on implementation and numerical experiments can be found in ["![rho](https://render.githubusercontent.com/render/math?math=\rho)-regularization subproblems: Strong duality and an eigensolver-based algorithm"](https://arxiv.org/abs/2109.01829)
 
